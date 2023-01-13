@@ -1,4 +1,4 @@
-# Currriculum Vitae of Robin Altrock
+# Curriculum Vitae of Robin Altrock
 
 Online version of the CV can be found here : https://t4e-dev.github.io/
 
