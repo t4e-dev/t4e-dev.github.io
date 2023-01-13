@@ -9,7 +9,7 @@ version: 2
 name: Robin Altrock
 title: Senior Software Developer / Software Architect
 email: raltrock@gmail.com
-website: www.github.com/t4e-dev/cv
+website: https://github.com/t4e-dev/t4e-dev.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
