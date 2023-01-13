@@ -9,7 +9,7 @@ version: 2
 name: Robin Altrock
 title: Senior Software Developer / Software Architect
 email: raltrock@gmail.com
-website: https://github.com/t4e-dev/t4e-dev.github.io
+website: https://t4e-dev.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -46,7 +46,7 @@ content:
           - Anforderungsanalyse
           - Entwurf
           - Implementierung
-          - Consulting Tätigkeiten (inhouse / extern)
+          - Consulting Tätigkeiten (inhouse / extern)  
 
   - title: Berufserfahrung # Title for the section
     layout: list # Type of content section (list/text)

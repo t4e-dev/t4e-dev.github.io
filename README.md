@@ -32,6 +32,14 @@ Any changes you make will automatically build and you will be able to see these 
 
 If you have docker installed you can simply run `docker-compose up` to launch the site in a container, it will then be hosted at `http://localhost:4000`
 
+### Export to pdf
+
+The quick and dirty way :  
+
+```zsh
+wkhtmltopdf --page-width 210 --page-height 1100  http://localhost:4000 cv-robin-altrock.pdf
+```
+
 ### More information and credits
 
 Please visit : https://github.com/sproogen/modern-resume-theme
