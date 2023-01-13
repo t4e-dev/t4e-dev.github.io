@@ -1,0 +1,216 @@
+# Site
+repository: t4e-dev/cv
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Robin Altrock
+title: Senior Software Developer / Software Architect
+email: raltrock@gmail.com
+website: www.github.com/t4e-dev/cv
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: RobinAltrock
+github_username:  t4e-dev
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: robin-altrock
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# About Section
+about_title: Über mich
+about_profile_image: images/profile-robin.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Robin Altrock, Senior Software Developer und Software Architect mit langjährigere Software Entwicklungserfahrung im Bereich Backend Systeme mit .NET/C#.   
+  Software Craftsman, der Wert auf einen sauberen Programmierstil und pragmatische Lösungen legt. Umfangreiche Erfahrung in den Aufgaben : Planung, Analyse, Entwurf. Programmierung, Test und Unterstützungsprozessen.  
+  Top Skills sind <mark>C#/.NET</mark>, <mark>WebServices</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>Docker</mark>, <mark>git</mark>, <mark>DevOps</mark> und <mark>Mario-Kart</mark>.  
+
+content:
+
+  - title: Aktuelles Projekt # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Software Architekt - Mobiles Kassensystem für Züge im Fernverkehr
+        link: https://www.dbsystel.de/dbsystel/Digital-Stories/Gemeinsam-zur-Zahlungsvielfalt-6188190
+        quote: >
+          Mobiles Kassensystem im Frontend ca. 10000 Endgeräte und im Backend mit AWS Cloud Services
+        description: | # this will include new lines to allow paragraphs
+          Die mobile Kasse ist ein modifiziertes Kassensystem auf Basis von TCPOS, welches sich den speziellen Herausforderungen eines im Fernverkehr operierenden Kassensystem stellt.  
+          Ständig wechselnde Netzwerkbedingungen und eine bedienerbezogene Kassenzuordnung mit innerhalb einer Schicht mehrfach rotierenden Lager Allokationen inklusive über Ländergrenzen hinweg andauernde Kassierrvorgänge sind für ein Kassensystem unübliche Bedingungen. Für diese und viele weitere Aufgaben bietet die MoKa Lösungen, welche im Rahmen des Projektes behandelt werden.  
+          Eine Integration in ein großes Appökosystem mit Anwendungsübergreifendem Look&Feel und die Möglichkeit  Bestellungen am Platz, selbständig durchgeführt vom Gast, anzunehmen runden den aktuellen Stand des Systems ab. 
+ 
+          Hauptaufgaben im Projekt:
+          - Anforderungsanalyse
+          - Entwurf
+          - Implementierung
+          - Consulting Tätigkeiten (inhouse / extern)
+
+  - title: Berufserfahrung # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Zucchetti Germany GmbH
+        link: https://www.zucchetti.com
+        link_text: zucchetti.com
+        sub_title: Software Architect
+        caption: September 2021 - Heute
+        quote: >
+          Software Architekt mit Spezialisierung auf mobile Endgeräte und Cloud gestützte Backend Services
+        description: | # this will include new lines to allow paragraphs
+          - Unterstüzung der globalen inhouse Entwicklung durch Konzepte und Entwicklungsvorgaben inklusive Infrastruktur, Tools und Schnittstellen
+          - Consulting (inhouse / extern beim Kunden)
+          - Konzept und Implementierung einer digitalen Bon Lösung
+          - Konzept und Implementierung eines Fiskallayers für das Kassensystem TCPOS
+          - Verantwortung über die Software Architektur einer mobilen Kassenlösung mit AWS Cloud Services 
+          - Anforderungsanalyse, Entwurf, Implementierung
+
+      - layout: left
+        title: Zucchetti Germany GmbH
+        link: https://www.zucchetti.com
+        link_text: zucchetti.com
+        sub_title: Senior Software Developer
+        caption: Januar 2018 - September 2021
+        quote: >
+          Senior Software Developer für Zucchetti / TCPOS Großkundenprojekte
+        description: | # this will include new lines to allow paragraphs
+          - Softwareentwickler für kundenspezifische Projekte im .NET Umfeld. 
+          - Weiterentwicklung kundenunabhängiger Standard Lösungen für regional unabhängige Softwarelösungen.  
+          - Schwerpunkt Web Services und Android Lösungen mittels Xamarin.
+
+      - layout: left
+        title: ORACLE Deutschland B.V. & Co. KG
+        link: https://www.oracle.com
+        ink_text: oracle.com
+        sub_title: Senior Software Development Consultant Lv. 4
+        caption: Juni 2015 - Dezember 2018
+        quote: >
+          Senior Software Developer für Systemgastronomie Projekte
+        description: | # this will include new lines to allow paragraphs
+          - Softwareentwickler im Professional Services / Consulting.
+          - Bearbeitung und Spezifizierung von kundenbezogenen Projekten für Oracle Hospitality Software RES 3700 und Simphony 2. 
+          - Entwicklung von Oracle Hospitality kundenunabhängiger Standard Software für den weltweiten Einsatz.
+          - Administrierung verschiedener Food & Beverage Professional Services Server ( Jenkins Build Server / Virtualbox Host / ESXI / Nuget )
+
+      - layout: left
+        title: MICROS Fidelio GmbH
+        link: https://www.oracle.com/industries/micros/
+        link_text: oracle.com
+        sub_title: Senior Research and Development Engineer POS Applications
+        caption: November 2006 - Mai 2015
+        quote: >
+          Senior Software Developer für Systemgastronomie Projekte
+        description: | # this will include new lines to allow paragraphs
+          - Bearbeitung und Spezifizierung von kundenbezogenen Projekten basierend auf den MICROS Produkten 3700 / 9700 / Simphony / Simphony 2. 
+          - Spezifizierung und Entwicklung von kundenunabhängigen Lösungen.
+
+      - layout: left
+        title: Hochschule Bochum
+        link: https://www.hochschule-bochum.de/
+        link_text: hochschule-bochum.de
+        sub_title: Wissenschaftlicher Mitarbeiter
+        caption: Mai 2005 - Oktober 2006
+        quote: >
+          Bearbeitung von wissenschaftliche Veröffentlichungen und Diplomarbeiten
+        description: | # this will include new lines to allow paragraphs
+          - Mitarbeiter im Labor für Softwaretechnik und Rechnernetze.
+          - Mitarbeit an Industrieprojekten im Bereich Softwareentwicklung mittels .NET / Java. 
+          - Wissenschaftliche Veröffentlichungen und Korrekturlesungen
+          - Unterstützung und Konzeptionierung von Diplomarbeiten
+
+  - title: Ausbildung # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Hochschule Bochum
+        caption: Dezember 2005 - Mai 2006
+        sub_title: Diplomarbeit
+        description: | # this will include new lines to allow paragraphs
+          - Titel der Diplomarbeit:    
+          Entwicklung einer Analyseumgebung auf Basis des Gilbert-Elliot-Modells zur Schätzung der Restfehlerrate im industriellen Umfeld.   
+          - **(Note: sehr gut / 1.0)**
+
+      - layout: left
+        title: Hochschule Bochum
+        caption: Septeber 2001 - Mai 2006
+        sub_title: Studium der Elektrotechnik und Informatik
+        description: | # this will include new lines to allow paragraphs
+          - Schwerpunkt Ingenieurinformatik  
+          - **(Note: gut / 1.8)**
+
+      - layout: left
+        title: Fernseh Rösler
+        caption: Septeber 2001 - Mai 2006
+        sub_title: Ausbildung zum Radio- und Fernsehtechniker
+        description: | # this will include new lines to allow paragraphs
+          - Geräte und Systemtechnik
+          - Digitale Lösungen und Prozessoptimierung
+          - Satelliten und Antennentechnik 
+          - **Erfolgreich abgeschlossen mit der Gesellenprüfung**
+
+      - layout: left
+        title: Albertus-Magnus-Gymnasium
+        caption: 1989 - 1997
+        sub_title: Abitur
+        description: | # this will include new lines to allow paragraphs
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - langjährige Erfahrung in der Softwareentwicklung mit .NET/C#
+      - Datenbanksysteme Oracle, MSSQL, PostgreSQL und Sqlite
+      - Rest WebServices
+      - Scripting mit Powershell und Bash
+      - Docker, Podman, Kubernetes
+      - Azure und AWS Kenntnisse
+      - Opensource Software
+      - Git, SVN, Visual Source Safe
+      - Android Entwicklung mit Xamarin / .NET MAUI
+      - Software Architektur
+      - Linux, Windows, macOS
+      - Azure DevOps, Jetbrains Teamcity, Oracle Jenkins
+      - JIRA, Confluence 
+      - Markdown, Wiki
+      - Visual Studio / Rider / Android Studio / VSCode
+
+  - title: Weitere Kenntnisse und Interessen
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - IOT
+      - Homeautomation
+      - Web Development
+      - Python
+      - Kotlin, Java, Javascript, Typescript
+      - CI / CD
+
+  - title: Ehrernamt
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Vorstand im Heimatverein Ennigerloh
+      - Pflege des Internetauftritte des Tafel Ennigerloh e.V. (Neubeckum, Oelde, Sendenhorst, Wadersloh)
+
+# Footer
+footer_show_references: true
+references_title: Senior Software Developer / Software Architect
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
