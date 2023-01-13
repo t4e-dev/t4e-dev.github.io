@@ -35,7 +35,7 @@ about_profile_image: images/profile-robin.jpg
 about_content: | # this will include new lines to allow paragraphs
   Robin Altrock, Senior Software Developer und Software Architect mit langjähriger Software-Entwicklungserfahrung im Bereich Backend Systeme mit .NET/C#.   
   Software Craftsman, der Wert auf einen sauberen Programmierstil und pragmatische Lösungen legt. Umfangreiche Erfahrung in den Aufgaben : Planung, Analyse, Entwurf. Programmierung, Test und Unterstützungsprozessen.  
-  Top Skills sind <mark>C#/.NET</mark>, <mark>WebServices</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>Docker</mark>, <mark>git</mark>, <mark>DevOps</mark> und <mark>Mario-Kart</mark>.  
+  Top Skills sind unter anderem <mark>C#/.NET</mark>, <mark>WebServices</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>Docker</mark>, <mark>git</mark>, <mark>DevOps</mark> und <mark>Mario-Kart</mark>.  
 
 content:
 
