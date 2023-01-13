@@ -39,7 +39,7 @@ content:
           Mobiles Kassensystem im Frontend ca. 10000 Endgeräte und im Backend mit AWS Cloud Services
         description: | # this will include new lines to allow paragraphs
           Die mobile Kasse ist ein modifiziertes Kassensystem auf Basis von TCPOS, welches sich den besonderen Herausforderungen eines im Fernverkehr operierenden Kassensystems stellt.  
-          Ständig wechselnde Netzwerkbedingungen, eine bedienerbezogene Kassenzuordnung mit innerhalb einer Schicht mehrfach rotierenden Lager Allokationen und über Ländergrenzen hinweg andauernden Kassierrvorgänge sind für ein Kassensystem unübliche Bedingungen. Für diese und viele weitere Aufgaben bietet die MoKa Lösungen, welche im Rahmen des Projektes behandelt werden.  
+          Ständig wechselnde Netzwerkbedingungen, eine bedienerbezogene Kassenzuordnung mit innerhalb einer Schicht mehrfach rotierenden Lager Allokationen und über Ländergrenzen hinweg andauernde Kassiervorgänge sind für ein Kassensystem unübliche Bedingungen. Für diese und viele weitere Aufgaben bietet die MoKa Lösungen, welche im Rahmen des Projektes behandelt werden.  
           Die Integration in ein vorhandenes App-Ökosystem mit anwendungsübergreifendem Look&Feel und die Möglichkeit  Bestellungen am Platz, selbständig durchgeführt vom Gast, anzunehmen runden den aktuellen Stand des Systems ab. 
  
           Hauptaufgaben im Projekt:
