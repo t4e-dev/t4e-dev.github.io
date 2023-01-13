@@ -195,7 +195,7 @@ content:
       - Kotlin, Java, Javascript, Typescript
       - CI / CD
 
-  - title: Ehrernamt
+  - title: Ehrenamt
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Vorstand im Heimatverein Ennigerloh
