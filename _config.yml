@@ -46,7 +46,8 @@ content:
           - Anforderungsanalyse
           - Entwurf
           - Implementierung
-          - Consulting Tätigkeiten (inhouse / extern)  
+          - Consulting Tätigkeiten (inhouse / extern)
+          - Transformation bestehender Backend Monolithen in eine Cloud-native Architektur
 
   - title: Berufserfahrung # Title for the section
     layout: list # Type of content section (list/text)
