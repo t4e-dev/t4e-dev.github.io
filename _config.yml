@@ -199,7 +199,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Vorstand im Heimatverein Ennigerloh
-      - Pflege des Internetauftritte des Tafel Ennigerloh e.V. (Neubeckum, Oelde, Sendenhorst, Wadersloh)
+      - Pflege der Internetauftritte des Tafel Ennigerloh e.V. (Neubeckum, Oelde, Sendenhorst, Wadersloh)
 
 # Footer
 footer_show_references: true
