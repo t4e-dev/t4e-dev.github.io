@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Robin Altrock
-title: Senior Software Developer / Software Architect
+title: Software Architect
 email: raltrock@gmail.com
 website: https://t4e-dev.github.io
 
@@ -23,9 +23,10 @@ linkedin_username: robin-altrock
 about_title: Über mich
 about_profile_image: images/profile-robin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Robin Altrock, Senior Software Developer und Software Architect mit langjähriger Software-Entwicklungserfahrung im Bereich Backend Systeme mit .NET/C#.   
-  Software Craftsman, der Wert auf einen sauberen Programmierstil und pragmatische Lösungen legt. Umfangreiche Erfahrung in den Aufgaben : Planung, Analyse, Entwurf. Programmierung, Test und Unterstützungsprozessen.  
-  Top Skills sind unter anderem <mark>C#/.NET</mark>, <mark>WebServices</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>Docker</mark>, <mark>git</mark>, <mark>DevOps</mark> und <mark>Mario-Kart</mark>.  
+  Robin Altrock, Senior Engineer und Software Architect mit langjähriger Erfahrung in der Entwicklung und Modernisierung von Backend-Systemen mit <mark>C#/.NET</mark>.  
+    Fokus auf <mark>Cloud Native</mark>-Architekturen, <mark>Microservices</mark> und den Aufbau skalierbarer, resilienzorientierter Plattformen in der Cloud.  
+    Umfangreiche Praxis in Planung, Analyse, Entwurf, Implementierung, Test und Betrieb/Support – inklusive Automatisierung und <mark>DevOps</mark>-Prozessen.  
+    Top Skills sind unter anderem <mark>Cloud</mark>, <mark>Cloud Native</mark>, <mark>Microservices</mark>, <mark>WebServices</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>git</mark>, <mark>CI/CD</mark> sowie <mark>Microsoft Stack rundum C#/.NET</mark>.
 
 content:
 
@@ -86,26 +87,16 @@ content:
         link: https://www.oracle.com
         ink_text: oracle.com
         sub_title: Senior Software Development Consultant Lv. 4
-        caption: Juni 2015 - Dezember 2018
+        caption: November 2006 - Dezember 2018
         quote: >
           Senior Software Developer für Systemgastronomie Projekte
         description: | # this will include new lines to allow paragraphs
           - Softwareentwickler im Professional Services / Consulting.
-          - Bearbeitung und Spezifizierung von kundenbezogenen Projekten für Oracle Hospitality Software RES 3700 und Simphony 2. 
-          - Entwicklung von Oracle Hospitality kundenunabhängiger Standard Software für den weltweiten Einsatz.
-          - Administrierung verschiedener Food & Beverage Professional Services Server (Jenkins Build Server / Virtualbox Host / ESXI / Nuget)
-
-      - layout: left
-        title: MICROS Fidelio GmbH
-        link: https://www.oracle.com/industries/micros/
-        link_text: oracle.com
-        sub_title: Senior Research and Development Engineer POS Applications
-        caption: November 2006 - Mai 2015
-        quote: >
-          Senior Software Developer für Systemgastronomie Projekte
-        description: | # this will include new lines to allow paragraphs
-          - Bearbeitung und Spezifizierung von kundenbezogenen Projekten basierend auf den MICROS Produkten 3700 / 9700 / Simphony / Simphony 2. 
-          - Spezifizierung und Entwicklung von kundenunabhängigen Lösungen.
+          - Schwerpunkt .NET/C# Entwicklung im Oracle Hospitality Umfeld.
+          - Unterstütung in der Cloud Migration von On-Premise Lösungen zu Oracle Cloud Services.
+          - Einsatz in Großkundenprojekten: Analyse, Spezifikation und Umsetzung kundenbezogener Anforderungen für Oracle Hospitality RES 3700 und Simphony 2.
+          - Konzeption und Entwicklung kundenspezifischer Erweiterungen sowie kundenunabhängiger Standardkomponenten mit weltweitem Rollout und internationalem Einsatz.
+          - Administration verschiedener Food-&-Beverage-Professional-Services-Umgebungen (Jenkins Build Server / VirtualBox Host / ESXi / NuGet).
 
       - layout: left
         title: Hochschule Bochum
