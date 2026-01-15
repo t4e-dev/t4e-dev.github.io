@@ -26,7 +26,7 @@ about_content: | # this will include new lines to allow paragraphs
   Robin Altrock, Senior Engineer und Software Architect mit langjähriger Erfahrung in der Entwicklung und Modernisierung von Backend-Systemen mit <mark>C#/.NET</mark>.  
     Fokus auf <mark>Cloud Native</mark>-Architekturen, <mark>Microservices</mark> und den Aufbau skalierbarer, resilienzorientierter Plattformen in der Cloud.  
     Umfangreiche Praxis in Planung, Analyse, Entwurf, Implementierung, Test und Betrieb/Support – inklusive Automatisierung und <mark>DevOps</mark>-Prozessen.  
-    Top Skills sind unter anderem <mark>Cloud</mark>, <mark>Cloud Native</mark>, <mark>Microservices</mark>, <mark>WebServices</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>git</mark>, <mark>CI/CD</mark> sowie <mark>Microsoft Stack rundum C#/.NET</mark>.
+    Top Skills sind unter anderem <mark>Cloud</mark>, <mark>Cloud Native</mark>, <mark>Microservices</mark>, <mark>WebServices</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>git</mark>, <mark>CI/CD</mark> sowie <mark>Microsoft Stack C#/.NET</mark>.
 
 content:
 
@@ -37,7 +37,7 @@ content:
         title: Software Architekt - Mobiles Kassensystem für Züge im Fernverkehr
         link: https://www.dbsystel.de/dbsystel/Digital-Stories/Gemeinsam-zur-Zahlungsvielfalt-6188190
         quote: >
-          Mobiles Kassensystem im Frontend ca. 10000 Endgeräte und im Backend mit AWS Cloud Services
+          Mobiles Kassensystem im Frontend ca. 14000 Endgeräte und im Backend mit AWS Cloud Services
         description: | # this will include new lines to allow paragraphs
           Die mobile Kasse ist ein modifiziertes Kassensystem auf Basis von TCPOS, welches sich den besonderen Herausforderungen eines im Fernverkehr operierenden Kassensystems stellt.  
           Ständig wechselnde Netzwerkbedingungen, eine bedienerbezogene Kassenzuordnung mit innerhalb einer Schicht mehrfach rotierenden Lager Allokationen und über Ländergrenzen hinweg andauernde Kassiervorgänge sind für ein Kassensystem unübliche Bedingungen. Für diese und viele weitere Aufgaben bietet die MoKa Lösungen, welche im Rahmen des Projektes behandelt werden.  
@@ -49,6 +49,7 @@ content:
           - Implementierung
           - Consulting Tätigkeiten (inhouse / extern)
           - Transformation bestehender Backend Monolithen in eine Cloud-native Architektur
+          - technische Verantwortung für den Bereich Software Architektur
 
   - title: Berufserfahrung # Title for the section
     layout: list # Type of content section (list/text)
@@ -68,6 +69,7 @@ content:
           - Konzept und Implementierung eines Fiskallayers für das Kassensystem TCPOS
           - Verantwortung über die Software Architektur einer mobilen Kassenlösung mit AWS Cloud Services 
           - Anforderungsanalyse, Entwurf, Implementierung
+          - technische Verantwortung für den Bereich Software Architektur im Projekt "Mobiles Kassensystem für Züge im Fernverkehr"
 
       - layout: left
         title: Zucchetti Germany GmbH
