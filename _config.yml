@@ -26,7 +26,7 @@ about_content: | # this will include new lines to allow paragraphs
   Robin Altrock, Senior Engineer und Software Architect mit langjähriger Erfahrung in der Entwicklung und Modernisierung von Backend-Systemen mit <mark>C#/.NET</mark>.  
     Fokus auf <mark>Cloud Native</mark>-Architekturen, <mark>Microservices</mark> und den Aufbau skalierbarer, resilienzorientierter Plattformen in der Cloud.  
     Umfangreiche Praxis in Planung, Analyse, Entwurf, Implementierung, Test und Betrieb/Support – inklusive Automatisierung und <mark>DevOps</mark>-Prozessen.  
-    Top Skills sind unter anderem <mark>.NET</mark>, <mark>Cloud Native</mark>, <mark>Microservices</mark>, <mark>WebServices</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>git</mark>, <mark>CI/CD</mark> sowie <mark>Microsoft Stack C#/.NET</mark>.
+    Top Skills sind unter anderem <mark>Azure / AWS</mark>, <mark>Cloud Native</mark>, <mark>Microservices</mark>, <mark>WebServices</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>git</mark>, <mark>CI/CD</mark> sowie <mark>Microsoft Stack C#/.NET</mark>.
 
 content:
 
